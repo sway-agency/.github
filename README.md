@@ -30,7 +30,7 @@ En plus des projets clients, on développe nos propres produits.
 
 Quelques outils qu'on utilise nous-mêmes et qu'on partage volontiers.
 
-- **[Accueil](https://github.com/sway-agency/tv)**, un launcher open source pour Android TV et Google TV. Un écran d'accueil simple, sans pub, qui retire en une commande les applis préinstallées dont vous ne voulez pas (c'est réversible et ça ne demande pas de root). Bonus : un écran de veille feu de cheminée. Vous pouvez même confier l'installation à une IA via ADB.
+- **[tv-home](https://github.com/sway-agency/tv)**, un launcher open source pour Android TV et Google TV. Un écran d'accueil simple, sans pub, qui retire en une commande les applis préinstallées dont vous ne voulez pas (c'est réversible et ça ne demande pas de root). Bonus : un écran de veille feu de cheminée. Vous pouvez même confier l'installation à une IA via ADB.
 - **[vps-configurator](https://github.com/sway-agency/vps-configurator)**, ce qu'on utilise pour préparer et sécuriser nos serveurs Debian et Ubuntu avec Terraform et Ansible. Firewall, SSH durci, honeypot, Docker et Traefik, plus la base de données managée chez Scaleway et le DNS et le stockage chez Cloudflare.
 
 ## On en parle ?
