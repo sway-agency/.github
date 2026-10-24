@@ -1,15 +1,34 @@
 <h1 align="center">
-<img src="../assets/logo.png" alt="Logo de Sway"  width="400"/>
+<img src="../assets/logo.png" alt="Sway, studio de développement web, mobile et IA près de Lyon" width="400"/>
 </h1>
 
-## Sway Agency est l'agence web & mobile nouvelle génération !
+<p align="center">
+  <strong>Sway est un studio de développement web, mobile et IA basé près de Lyon.</strong><br>
+  On fabrique des sites, des applis et des outils sur mesure, qui sortent vite et qui tiennent dans le temps.
+</p>
 
-Derrière Sway, il y a Louise, la fondatrice : développeuse web de formation, curieuse et touche-à-tout.
-Elle coordonne, conçoit, et s’entoure de créatif(ves) pour donner vie à votre projet.
+## Qui on est
 
-## Besoin d'informations ?
+Sway, c'est d'abord Louise, la fondatrice. Développeuse web de formation, curieuse de tout, elle pilote chaque projet et s'entoure de créatifs et de créatives selon les besoins.
 
-Pour plus d'informations concernant Sway, n'hésitez pas à visiter notre [site internet ici](https://swayagency.fr)
+Un site vitrine, une application mobile, un outil interne ou un peu d'IA pour gagner du temps au quotidien : on aime les projets concrets, qui servent vraiment.
 
-Si vous souhaitez parler directement d'un projet avec Louise, notre fondatrice.
-Vous pouvez réserver votre audit de [30 min gratuitement ici](https://calendly.com/louise-artnco/audit-web-de-30-min)
+Pour voir ce qu'on fait et ce qu'on a déjà livré, passez sur [le site du studio Sway](https://swayagency.fr).
+
+## Nos produits
+
+En plus des projets clients, on développe nos propres produits.
+
+- **[Sway One](https://swone.fr)**, le logiciel de gestion de stock et d'achats par IA. Il repère pour vous les bons moments pour acheter et pour vendre, en fonction de votre stock, de vos fournisseurs et des périodes qui comptent dans votre activité.
+- **[Art&Co](https://artnco.io)**, la marketplace des artisans. Vous achetez directement auprès de celles et ceux qui fabriquent, des pièces uniques et Made in France, sans intermédiaire.
+
+## Open source
+
+Quelques outils qu'on utilise nous-mêmes et qu'on partage volontiers.
+
+- **[Accueil](https://github.com/sway-agency/tv)**, un launcher open source pour Android TV et Google TV. Un écran d'accueil simple, sans pub, qui retire en une commande les applis préinstallées dont vous ne voulez pas (c'est réversible et ça ne demande pas de root). Bonus : un écran de veille feu de cheminée. Vous pouvez même confier l'installation à une IA via ADB.
+- **[vps-configurator](https://github.com/sway-agency/vps-configurator)**, ce qu'on utilise pour préparer et sécuriser nos serveurs Debian et Ubuntu avec Terraform et Ansible. Firewall, SSH durci, honeypot, Docker et Traefik, plus la base de données managée chez Scaleway et le DNS et le stockage chez Cloudflare.
+
+## On en parle ?
+
+Vous avez un projet en tête, ou juste une idée à creuser ? [Prenez rendez-vous avec Louise](https://cal.com/lpieri/rdv-avec-louise), c'est gratuit et sans engagement.
