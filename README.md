@@ -15,6 +15,10 @@ Un site vitrine, une application mobile, un outil interne ou un peu d'IA pour ga
 
 Pour voir ce qu'on fait et ce qu'on a déjà livré, passez sur [le site du studio Sway](https://swayagency.fr).
 
+## Notre stack
+
+Côté back, on écrit surtout du **Go** : c'est rapide, solide et simple à maintenir. Pour le front, on part sur **React**, et sur **React Native** quand il faut une appli mobile iOS et Android sans écrire deux fois le même code. On utilise **Python** pour la data, les scripts et tout ce qui touche à l'**IA** : agents, automatisations, LLM branchés sur vos outils métier. On choisit toujours l'outil qui colle au projet, pas l'inverse.
+
 ## Nos produits
 
 En plus des projets clients, on développe nos propres produits.
